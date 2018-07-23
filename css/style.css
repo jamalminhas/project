@@ -1,0 +1,34 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+
+	width: 100%;
+	margin-top: 15px;
+	margin: auto;
+}
+.navy ul,li,a{
+	 list-style: none;
+	 font-size: 15px;
+	 float: left;
+	 padding: 10px;
+	 text-align: center;
+	 text-decoration: none;
+	 color:white;
+	 font-weight: bold;
+	 z-index: -1;
+	 margin-bottom: 10px;
+	 display: block;
+}
+a:hover{
+	background-color: grey;
+	border-radius: 22px;
+
+}
+.foot{
+	background-color: purple;
+	border:2px solid purple;
+	margin-bottom: 40%;
+}
+
